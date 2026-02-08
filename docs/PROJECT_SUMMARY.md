@@ -85,19 +85,7 @@ Plataforma completa de gestión de WhatsApp Business diseñada para empresas que
 9. **CHANGELOG.md** - Historial de cambios
 10. **CONFIGURACION_PROVEEDORES_PAGO.md** - Configuración de pagos
 
-## 🚀 Instalación
 
-### Rápida (Script Automático)
-```bash
-./install.sh
-```
-
-### Manual
-```bash
-cp env.example .env
-# Editar .env
-docker-compose up -d
-```
 
 ## 📊 Métricas del Proyecto
 
@@ -185,9 +173,6 @@ Este software puede venderse como:
 - Guías paso a paso
 - Ejemplos de código
 
-## 📄 Licencia
-
-MIT License - Ver [LICENSE](LICENSE)
 
 ## 🙏 Créditos
 
